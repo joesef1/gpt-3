@@ -99,6 +99,9 @@
   display: none;
 }
 
+
+
+
 @media screen and (max-width: 1050px) {
   .gpt3__navbar-links_container {
       display: none;
